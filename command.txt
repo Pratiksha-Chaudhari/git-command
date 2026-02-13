@@ -1,0 +1,8 @@
+mkdir myfolder
+cd myfolder
+pwd
+git status
+git init
+git status
+git add command.txt
+git commit -m "this is command file
