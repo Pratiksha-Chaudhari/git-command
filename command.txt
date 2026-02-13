@@ -6,3 +6,8 @@ git init
 git status
 git add command.txt
 git commit -m "this is command file
+git branch -m master
+git remote set-url origin 
+git remote -v
+git push origin master
+pwd
